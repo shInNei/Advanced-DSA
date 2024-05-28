@@ -1,4 +1,6 @@
-    int cutRod(int price[], int n) {
+// Time Complexity: O(n^2)
+// Auxiliart Space: O(n)
+int cutRod(int price[], int n) {
         //code here
         
         // dp is an array of optimal revenue
